@@ -55,7 +55,7 @@ export default function Home() {
             border: "solid 2px black",
             backgroundColor: "white",
             borderRadius: "7px",
-            fontSize: "1rem",
+            fontSize: "2rem",
             fontWeight: "700",
             cursor: "pointer",
           }}
